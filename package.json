@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dilongfa/node-tlg.git"
+    "url": "git+https://github.com/rengen12/telegram-client-fork.git"
   },
   "keywords": [
     "tlg",
@@ -25,12 +25,9 @@
     "telegram-api",
     "telegram-cli"
   ],
-  "author": "DiLong Fa <dilongfa@gmail.com>",
+  "author": "rengen <rengen12@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dilongfa/node-tlg/issues"
-  },
-  "homepage": "https://github.com/dilongfa/node-tlg#readme",
+  "homepage": "https://github.com/rengen12/telegram-client-fork",
   "dependencies": {
     "ffi-napi": "2.4.4"
   }
