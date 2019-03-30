@@ -1,3 +1,7 @@
+just need getChatHistory method for tg
+original repository https://github.com/dilongfa/node-tlg
+
+original readme
 ## telegram-client
 
 NodeJS API for the [TDLib](https://core.telegram.org/tdlib/getting-started). 
